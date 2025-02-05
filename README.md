@@ -23,11 +23,15 @@ With my background at the intersection of AI, cognitive science, and social scie
 
 2. Projects I’ve worked on that require strong programming skills
 
-**Project 1: Computational Modeling of Human Visual Pretense** (in collaboration with Dr. Peng Qian and Prof. Tomer Ullman)
+
+
+## What experience do I have with natural language processing, machine learning, linguistics, or other non-CS academic areas relevant to my interest in language technologies?
+
+**Project 1: Computational Modeling of Human Visual Pretense** (conducted during my internship at Prof. Tomer Ullman's lab at Harvard)
 
 This project investigates visual pretense—a mode of imagination in which people use physical objects to stand for ideas in their minds, such as pointing to a bottle and saying “Suppose this is my car…”. I developed a computational model of the cognitive process underlying this behavior. The model integrates two modules, (1) a shape representation module that maps a visual or linguistic depiction (such as an image or a phrase) of real and pretend objects to a 3D point cloud, and (2) an analogical reasoning module that searches for a good alignment between the two point clouds of a real object and a pretend object. I tested this model’s predictions on the stimuli developed in previous human behavioral studies and compared model performance with that of other multimodal generative models.
 
-**Project 2: Fine-tuning LLaMA-7B using RLCD** (in collaboration with Sonia Murthy, Dr. Jennifer Hu, and Prof. Tomer Ullman)
+**Project 2: Fine-tuning LLaMA-7B using RLCD** (conducted during my internship at Prof. Tomer Ullman's lab at Harvard)
 
 The goal of this project was to explore whether post-training alignment methods, such as RLHF, RLAIF, and RLCD, influence the internal diversity of large language models. To achieve this, I fine-tuned LLaMA-7B using reinforcement learning from contrastive distillation (RLCD) and evaluated its conceptual diversity through a word-color association task and a conceptual similarity judgment task. This work was later accepted for NAACL 2025. Although I was not listed as an author, I gained expertise in training large language models on FASRC GPUs, leveraging the Accelerate library for distributed training, and resolving multi-node communication challenges.
 
@@ -35,7 +39,13 @@ The goal of this project was to explore whether post-training alignment methods,
 
 To explore how nonverbal signals, such as pointing and gazing, influence agents’ cognition and action planning in social interactions, I developed Heider-Simmel-style animations using a physics engine (i.e., pybox2d). The agents could communicate through pointing and perform hierarchical planning within a decentralized POMDP framework. The animations aligned with human intuition, demonstrating how pointing can assist or obstruct others while minimizing movement costs. These findings shed light on how nonverbal signals contribute to joint attention and shape cognitive processes in social interactions.
 
-## What experience do I have with natural language processing, machine learning, linguistics, or other non-CS academic areas relevant to my interest in language technologies?
+**Project 4: Computational Modeling of Ownership Norms** (conducted during my internship at Prof. Yixin Zhu's lab at PKU)
+
+In this project, I aimed at building AI systems that can perceive, infer, and reason about ownership relations in real-world scenarios. To achieve this, I conducted a comprehensive literature review across disciplines such as computer science, cognitive science, social psychology, philosophy, and law. Through extensive reading and discussions, I developed a theoretical model to enable machines to infer ownership relations from multimodal cues.
+
+**Project 5: Investigating the algorithmic process of human visual pretense** (conducted during my internship at Prof. Tomer Ullman's lab at Harvard)
+
+To explore whether human visual pretense involves mental rotation, I coded and deployed a web- based behavioral studies. I conducted an online human experiment to collect reaction time data for a visual pretense task, analyzing how reaction times varied based on the difference between the object's actual angle and its canonical orientation. I also generated stimuli by rendering 2D images of everyday objects from various viewpoints using Blender.
 
 
 
