@@ -37,7 +37,12 @@ To explore how nonverbal signals, such as pointing and gazing, influence agentsâ
 
 ## What experience do I have with natural language processing, machine learning, linguistics, or other non-CS academic areas relevant to my interest in language technologies?
 
+
+
 ## Are there unique elements of my background that could help me contribute to building more inclusive language technologies in the future?
+
+1. Besides AI, I also study cognitive science, and worked as a full-time research intern at the Computational, Cognition and Development Lab at Harvard University (guided by Prof. Tomer Ullman). I think insights from cognitive science can contribute to building more human-like language models and developing language tools that can interact with humans safely.
+2. As a female in STEM, I have a strong commitment to fairness and justice. I have faced doubts from others who believed that women shouldn't pursue STEM disciplines. However, I persevered and eventually gained admission to one of the top universities in China, securing an opportunity as an RA at Harvard University. I know there's still a long way to go before we can break the societal biases against women and Asian communities, but I aim to challenge stereotypes and promote social equity by becoming a leading figure in research and supporting underrepresented students, as others have supported me.
 
 ## Do I have any academic or leadership achievements that I would like to tell you about?
 
