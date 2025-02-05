@@ -1,5 +1,7 @@
 # CMU_LTI_Summer_Internship
 
+Here is my [CV](https://drive.google.com/file/d/1vfLe6h9O95_eUFP-p6kLY5wQiNo1tKRM/view?usp=drive_link).
+
 ## What motivated me to apply to this program?
 
 **Research Interests**
@@ -21,13 +23,16 @@ With my background at the intersection of AI, cognitive science, and social scie
 
 1. Programming Language and Tools: Python / C / C++ / PyTorch / LaTeX / object-oriented programming (Advanced), jsPsych / JavaScript / Shell / Docker / Blender (intermediate)
 
-2. Projects I’ve worked on that require strong programming skills
+2. Related Coursework: Introduction to Computation, [Natural Language Processing with Deep Learning](https://delicate-tricorne-495.notion.site/Natural-Language-Processing-with-Deep-Learning-191663b5261e80faab5fd3a0336c059d), [Computer Vision](https://pku-epic.github.io/Intro2CV_2024/), [Cognitive Reasoning](https://yzhu.io/courses/core/), etc.
 
+3. Projects I’ve worked on that require strong programming skills:
+- Developed a Multimodal Model for Human Visual Pretense: [code](https://github.com/XizhiXiao/Reverse-Engineering-Visual-Pretense)
+- Decision Transformer for Modeling Theory of Mind in Multi-Agent Systems: [writing sample](https://drive.google.com/file/d/1X-sKQgrMdhu3d7DKexFaIj1qdW2qQ0kF/view?usp=drive_link), [code](https://github.com/muzhancun/ToMDT)
 
 
 ## What experience do I have with natural language processing, machine learning, linguistics, or other non-CS academic areas relevant to my interest in language technologies?
 
-**Project 1: Computational Modeling of Human Visual Pretense** (conducted during my internship at Prof. Tomer Ullman's lab at Harvard)
+**Project 1: Computational Modeling of Human Visual Pretense** (conducted during my internship at Prof. Tomer Ullman's [lab](https://www.cocodev.org/) at Harvard)
 
 This project investigates visual pretense—a mode of imagination in which people use physical objects to stand for ideas in their minds, such as pointing to a bottle and saying “Suppose this is my car…”. I developed a computational model of the cognitive process underlying this behavior. The model integrates two modules, (1) a shape representation module that maps a visual or linguistic depiction (such as an image or a phrase) of real and pretend objects to a 3D point cloud, and (2) an analogical reasoning module that searches for a good alignment between the two point clouds of a real object and a pretend object. I tested this model’s predictions on the stimuli developed in previous human behavioral studies and compared model performance with that of other multimodal generative models.
 
@@ -35,11 +40,11 @@ This project investigates visual pretense—a mode of imagination in which peopl
 
 The goal of this project was to explore whether post-training alignment methods, such as RLHF, RLAIF, and RLCD, influence the internal diversity of large language models. To achieve this, I fine-tuned LLaMA-7B using reinforcement learning from contrastive distillation (RLCD) and evaluated its conceptual diversity through a word-color association task and a conceptual similarity judgment task. This work was later accepted for NAACL 2025. Although I was not listed as an author, I gained expertise in training large language models on FASRC GPUs, leveraging the Accelerate library for distributed training, and resolving multi-node communication challenges.
 
-**Project 3: Computational Modeling of Nonverbal Communication** (conducted during my internship at Beijing Institute for General Artificial Intelligence)
+**Project 3: Computational Modeling of Nonverbal Communication** (conducted during my internship at [Beijing Institute for General Artificial Intelligence](https://eng.bigai.ai/))
 
 To explore how nonverbal signals, such as pointing and gazing, influence agents’ cognition and action planning in social interactions, I developed Heider-Simmel-style animations using a physics engine (i.e., pybox2d). The agents could communicate through pointing and perform hierarchical planning within a decentralized POMDP framework. The animations aligned with human intuition, demonstrating how pointing can assist or obstruct others while minimizing movement costs. These findings shed light on how nonverbal signals contribute to joint attention and shape cognitive processes in social interactions.
 
-**Project 4: Computational Modeling of Ownership Norms** (conducted during my internship at Prof. Yixin Zhu's lab at PKU)
+**Project 4: Computational Modeling of Ownership Norms** (conducted during my internship at Prof. Yixin Zhu's [lab](https://pku.ai/) at PKU)
 
 In this project, I aimed at building AI systems that can perceive, infer, and reason about ownership relations in real-world scenarios. To achieve this, I conducted a comprehensive literature review across disciplines such as computer science, cognitive science, social psychology, philosophy, and law. Through extensive reading and discussions, I developed a theoretical model to enable machines to infer ownership relations from multimodal cues.
 
@@ -51,7 +56,7 @@ To explore whether human visual pretense involves mental rotation, I coded and d
 
 ## Are there unique elements of my background that could help me contribute to building more inclusive language technologies in the future?
 
-1. Besides AI, I also study cognitive science, and worked as a full-time research intern at the Computational, Cognition and Development Lab at Harvard University (guided by Prof. Tomer Ullman). I think insights from cognitive science can contribute to building more human-like language models and developing language tools that can interact with humans safely.
+1. Besides AI, I also study cognitive science, and worked as a full-time research intern at the Computational, Cognition and Development Lab at Harvard University (guided by Prof. [Tomer Ullman](https://www.tomerullman.org/)). I think insights from cognitive science can contribute to building more human-like language models and developing language tools that can interact with humans safely.
 2. As a female in STEM, I have a strong commitment to fairness and justice. I have faced doubts from others who believed that women shouldn't pursue STEM disciplines. However, I persevered and eventually gained admission to one of the top universities in China, securing an opportunity as an RA at Harvard University. I know there's still a long way to go before we can break the societal biases against women and Asian communities, but I aim to challenge stereotypes and promote social equity by becoming a leading figure in research and supporting underrepresented students, as others have supported me.
 
 ## Do I have any academic or leadership achievements that I would like to tell you about?
